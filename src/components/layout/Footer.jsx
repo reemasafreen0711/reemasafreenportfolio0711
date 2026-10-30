@@ -13,7 +13,7 @@ const FOOTER = {
   name: "Reema Safreen S S",
   role: "Full-Stack Developer",
   email: "reemasafreen0711@gmail.com",
-  github: "https://github.com/safreen0711",
+  github: "https://github.com/reemasafreen0711",
   linkedin: "https://www.linkedin.com/in/reema-safreen0711/",
   instagram: "https://www.instagram.com/sky_lub_rs/",
   whatsapp: "918148558828",

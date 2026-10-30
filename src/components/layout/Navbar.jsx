@@ -22,7 +22,7 @@ const NAV_ITEMS = [
 
 const CONTACT = {
   email: "reemasafreen0711@gmail.com",
-  github: "https://github.com/safreen0711",
+  github: "https://github.com/reemasafreen0711",
   linkedin: "https://www.linkedin.com/in/reema-safreen0711/",
   resume: "/Resume1.pdf",
 };
